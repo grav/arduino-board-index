@@ -19,7 +19,7 @@
           },
             "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-doppler-1.2.9.zip",
             "archiveFileName": "dadamachines-doppler-1.2.9.zip",
-            "size": "6207403",
+            "size": "42",
             "boards": [{
             "name": "dadamachines doppler",
             "toolsDependencies": [
@@ -62,7 +62,7 @@
           },
             "url": "https://dadamachines.github.io/arduino-board-index/boards/dadamachines-doppler-1.3.0.zip",
             "archiveFileName": "dadamachines-doppler-1.3.0.zip",
-            "size": "6207403",
+            "size": "42",
             "boards": [{
             "name": "dadamachines doppler",
             "toolsDependencies": [
